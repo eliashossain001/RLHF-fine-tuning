@@ -52,11 +52,4 @@ We aim to:
 - Compare SFT-only vs SFT+DPO pipelines
 - Explore human preference data injection
 
----
-
-## 🧰 Requirements
-
-```bash
-pip install -r requirements.txt
-
 
