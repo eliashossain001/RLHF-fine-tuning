@@ -9,7 +9,7 @@ This repository contains two key components for training and optimizing Large La
 
 ---
 
-## 🚀 Fine-Tuning GPT-4 for Math Problem Solving
+## Fine-Tuning GPT-4 for Math Problem Solving
 
 This section focuses on fine-tuning a GPT-style model on a **math reasoning task** using a large dataset of structured QA pairs.
 
