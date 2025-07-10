@@ -2,8 +2,8 @@
 
 This repository contains two key components for training and optimizing Large Language Models (LLMs):
 
-- ✅ **Supervised Fine-Tuning (SFT)** using GPT-4-style models for math problem-solving
-- ✅ **Direct Preference Optimization (DPO)** to further align LLM behavior with preference data, using models such as Qwen
+- **Supervised Fine-Tuning (SFT)** using GPT-4-style models for math problem-solving
+- **Direct Preference Optimization (DPO)** to further align LLM behavior with preference data, using models such as Qwen
 
 
 
