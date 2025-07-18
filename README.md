@@ -52,4 +52,10 @@ We aim to:
 - Compare SFT-only vs SFT+DPO pipelines
 - Explore human preference data injection
 
+## 👨‍💼 Author
+
+**Elias Hossain**  
+_Machine Learning Researcher | PhD Student | AI x Reasoning Enthusiast_
+
+[![GitHub](https://img.shields.io/badge/GitHub-EliasHossain001-blue?logo=github)](https://github.com/EliasHossain001)
 
